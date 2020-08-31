@@ -1,6 +1,3 @@
 node_modules/
 coverage/
-config/
-logfile.log
-uncaughtExceptions.log
 hash.js
